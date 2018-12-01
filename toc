@@ -1,0 +1,7 @@
+{:navgroup: .navgroup}
+{:topicgroup: .topicgroup}
+
+{: .toc subcollection="infrastructure-service-cli" audience="cli" href="/docs/infrastructure-service-cli-plugin/vpc-cli-reference.html" path="infrastructure-service-cli-plugin"}
+CLI Plugin for Virtual Private Cloud (VPC)
+
+    vpc-cli-reference.md
