@@ -26,7 +26,7 @@ This document is organized into sections:
 * [VPN CLI commands](#vpn)
 * [Load Balancers CLI commands](#load-balancers)
 
-The individual commands within each section are detailed in 11 tables that follow. For easy access to view the syntax of each command, you can click on the command _within its table_, or alternatively you can scroll through the Table of Contents menu at _the right side of your screen_ and click on the command to be taken to the details. {:tip} 
+The individual commands within each section are detailed in 11 tables that follow. For easy access to view the syntax of each command, you can click on the command _within its table_, or alternatively you can scroll through the Table of Contents menu at _the right side of your screen_ and click on the command to be taken to the details. {: tip} 
 
 <table summary="General {{site.data.keyword.BluSoftlayer_notm}} VPC infrastructure commands with links that bring you to more info for the command">
 <caption>Table 1. {{site.data.keyword.BluSoftlayer_notm}} VPC infrastructure commands</caption>
